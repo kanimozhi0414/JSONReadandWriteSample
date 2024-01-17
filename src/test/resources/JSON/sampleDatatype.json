@@ -1,0 +1,36 @@
+{
+	
+	"companyDetails" : 
+	{
+		"companyName" : "abcCompany",
+		"companyaddress" : "bangalore",
+		"companyType" : "privateCompany",
+		"companyPhoneNo" : 442342245,
+		"companyStatus" : "open"
+	},
+	"employeeDetails" : 
+	{
+		"firstName" : "kanimozhi",
+		"middleName" : null,
+		"lastName" : "ranjith",
+		"phone" : 9688003038
+	},
+	"employeeRole" : ["tester", "API", "Automation", 2343245],
+	"employeeAddress" : "salem",
+	"employeeGmailId" : "kani@gmail.com",
+	"marriageStatus" : null,
+	"workingStatus" : true,
+	"employeeTiming" :1100,
+	"supervisorDetails":
+	{
+		"firstName" : "dev",
+		"middleName" : null,
+		"lastName" : "anandh",
+		"phone" : 4366664262
+	},
+	"supervisorRole" : ["Manager", "AutomationTester", 5454553],
+	"supervisorAddress" : "trichy",
+	"supervisorGmailId" : "dev@yahoo.com",
+	"supervisorWorkingStatus" : false,
+	"supervisorTiming" : 2000
+}
